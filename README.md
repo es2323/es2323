@@ -39,7 +39,7 @@
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>
-    <b>Languages:</b> <code>Python</code> • <code>SQL</code> <br/>  • <code>Haskell</code> <br/>  • <code>Javascript</code> <br/>
+    <b>Languages:</b> <code>Python</code> • <code>SQL</code> • <code>Haskell</code> • <code>Javascript</code> <br/>
     <b>Machine Learning & AI:</b> <code>scikit-learn</code> • <code>Ethical AI</code> • <code>Prompt Engineering</code> • <code>Generative AI</code> <br/>
     <b>Web & Cloud:</b> <code>Microsoft Azure</code> • <code>Django</code> • <code>HTML</code> • <code>Bootstrap</code> • <code>SSL/TLS</code> • <code>Flask</code> • <code>Node.js</code> <br/>
     <b>Databases:</b> <code>SQL Server</code> • <code>MongoDB Atlas</code> • <code>SQLite</code> <br/>
