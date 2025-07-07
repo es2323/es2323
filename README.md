@@ -39,12 +39,12 @@
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>
-    <b>Languages:</b> <code>Python</code> (PyCryptodome, asyncio, OOP, APIs, Automation) • <code>SQL</code> <br/>
-    <b>Machine Learning & AI:</b> <code>scikit-learn</code> (predictive modeling) • Ethical AI • Prompt Engineering • Generative AI <br/>
+    <b>Languages:</b> <code>Python</code> • <code>SQL</code> <br/>  • <code>Haskell</code> <br/>  • <code>Javascript</code> <br/>
+    <b>Machine Learning & AI:</b> <code>scikit-learn</code> • <code>Ethical AI</code> • <code>Prompt Engineering</code> • <code>Generative AI</code> <br/>
     <b>Web & Cloud:</b> <code>Microsoft Azure</code> • <code>Django</code> • <code>HTML</code> • <code>Bootstrap</code> • <code>SSL/TLS</code> • <code>Flask</code> • <code>Node.js</code> <br/>
     <b>Databases:</b> <code>SQL Server</code> • <code>MongoDB Atlas</code> • <code>SQLite</code> <br/>
-    <b>Tools:</b> <code>Git</code> • <code>Figma</code> (wireframes, user-centered design) • <code>Jupyter Notebooks</code> • <code>DaVinci Resolve</code> • <code>MongoDB Compass</code> <br/>
-    <b>Concepts:</b> Object-Oriented Programming (OOP) • Encryption (AES, Diffie-Hellman) • Software Testing • Agile/Scrum • User-Centered Design • Accessibility Principles
+    <b>Tools:</b> <code>Git</code> • <code>Figma</code> • <code>Jupyter Notebooks</code> • <code>DaVinci Resolve</code> • <code>MongoDB Compass</code> <br/>
+    <b>Concepts:</b> <code>Object-Oriented Programming</code> • <code>Encryption</code> • <code>Software Testing</code> • <code>Agile/Scrum</code> • <code>UI/UX principles</code> • <code>Accessibility Principles</code> <br/>
   </p>
 </div>
 
@@ -52,6 +52,6 @@
 <div align="center">
   <h2>💡 What I'm Working On?</h2>
   <p>
-    🧠 Project LEVI, in partnership with a friend, we aim to build an AI powered career readiness platform for undergrads. Stay tuned!<br/>
+    🧠 Project LEVI, in partnership with a friend, we aim to build an AI powered career readiness platform for undergrads. <br>Stay tuned!<br/>
     </p>
 </div>
