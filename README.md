@@ -9,7 +9,7 @@
   <p>
     I'm <strong>Enosh Earnest</strong>, a final-year Computer Science & Math student at University of Derby 🎓.<br>
     I'm a true believer in bringing beauty through code. <br> 
-    My passion lies in developing front-end experiences through instinctive UI/UX design, and building robust backend solutions with Python. <br>
+    My passion lies in developing front-end experiences via instinctive UI/UX design, and building robust backend solutions with Python. <br>
     Away from the laptop, you'll find me strumming a guitar 🎸 or exploring Gothic Cathedrals⛪. <br>
     Based in the UK 🇬🇧
   </p>
