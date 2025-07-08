@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&duration=3000&color=33FF33&center=true&vCenter=true&width=650&lines=Hi...+I'm+Enosh!;Welcome+to+my+GitHub+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=35&duration=3000&color=D87A4A&center=true&vCenter=true&width=650&lines=Hi...+I'm+Enosh!;Welcome+to+my+GitHub+🤝" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/es2323/windowpane"><b>Windowpane</b></a></td>
+      <td><a href="https://enoshearnest.com"><b>Windowpane</b></a></td>
       <td>My personal portfolio website, brought to life with p5.js and Vu.</td>
     </tr>
     <tr>
@@ -51,13 +51,18 @@
 <div align="center">
   <h2>💡 What I'm Working On?</h2>
   <p>
-    🧠 Project LEVI, in partnership with a friend, we aim to build an AI powered career readiness platform for undergrads. <br>Stay tuned!<br/>
+    Project LEVI, in partnership with a friend, we aim to build an AI powered career readiness platform for undergrads. <br>Stay tuned!<br/>
     </p>
 </div>
 
 <div align="center">
   <h2>📈 GitHub Activity</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=es2323&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+</div>
+
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=es2323&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" width="70%" />
 </div>
 
 <div align="center">
@@ -70,14 +75,12 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/enosh-solomon-3370321bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:enoshsolomonn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </div>
 
-<div align="center">
-  <em>"Build things so good they become unignorable."</em>
-</div>
+
 
