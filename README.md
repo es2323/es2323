@@ -49,17 +49,39 @@
 </div>
 
 <div align="center">
-  <h2>📈 GitHub Stats</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=es2323&show_icons=true&theme=onedark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es2323&layout=compact&theme=onedarkn&hide_border=false&hide=java,GLSL" width="40%" />
-</p>
-
-<div align="center">
   <h2>💡 What I'm Working On?</h2>
   <p>
     🧠 Project LEVI, in partnership with a friend, we aim to build an AI powered career readiness platform for undergrads. <br>Stay tuned!<br/>
     </p>
 </div>
+
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=es2323&show_icons=true&theme=dracula&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es2323&layout=compact&theme=dracula&hide_border=false&hide=java,GLSL" width="40%" />
+</p>
+
+<div align="center">
+  <h2>🤝 Let's Connect!</h2>
+  <p>
+    I’m open to <strong>backend, infra, and systems SWE roles</strong> for 2025! <br/>
+    Always happy to collaborate, contribute, or chat tech 👇
+  </p>
+  <a href="https://www.linkedin.com/in/enosh-solomon-3370321bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:enoshsolomonn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://enoshearnest.com">
+    <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <em>"Build things so good they become unignorable."</em>
+</div>
+
