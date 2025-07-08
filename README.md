@@ -44,7 +44,7 @@
     <b>Web & Cloud:</b> <code>Microsoft Azure</code> • <code>Django</code> • <code>HTML</code> • <code>Bootstrap</code> • <code>SSL/TLS</code> • <code>Flask</code> • <code>Node.js</code> <br/>
     <b>Databases:</b> <code>SQL Server</code> • <code>MongoDB Atlas</code> • <code>SQLite</code> <br/>
     <b>Tools:</b> <code>Git</code> • <code>Figma</code> • <code>Jupyter Notebooks</code> • <code>DaVinci Resolve</code> • <code>MongoDB Compass</code> <br/>
-    <b>Concepts:</b> <code>Object-Oriented Programming</code> • <code>Encryption</code> • <code>Software Testing</code> • <code>Agile/Scrum</code> • <code>UI/UX principles</code> • <code>Accessibility Principles</code> <br/>
+    <b>Concepts:</b> <code>Object-Oriented Programming</code> • <code>Software Testing</code> • <code>Agile/Scrum</code> • <code>UI/UX principles</code> • <code>Accessibility Principles</code> <br/>
   </p>
 </div>
 
