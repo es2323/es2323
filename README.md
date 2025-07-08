@@ -40,7 +40,7 @@
   <h2>🛠️ Tech Stack</h2>
   <p>
     <b>Languages:</b> <code>Python</code> • <code>SQL</code> • <code>Haskell</code> • <code>Javascript</code> <br/>
-    <b>Machine Learning & AI:</b> <code>scikit-learn</code> • <code>Ethical AI</code> • <code>Prompt Engineering</code> • <code>Generative AI</code> <br/>
+    <b>ML & AI:</b> <code>scikit-learn</code> • <code>Ethical AI</code> • <code>Prompt Engineering</code> • <code>Generative AI</code> <br/>
     <b>Web & Cloud:</b> <code>Microsoft Azure</code> • <code>Django</code> • <code>HTML</code> • <code>Bootstrap</code> • <code>SSL/TLS</code> • <code>Flask</code> • <code>Node.js</code> <br/>
     <b>Databases:</b> <code>SQL Server</code> • <code>MongoDB Atlas</code> • <code>SQLite</code> <br/>
     <b>Tools:</b> <code>Git</code> • <code>Figma</code> • <code>Jupyter Notebooks</code> • <code>DaVinci Resolve</code> • <code>MongoDB Compass</code> <br/>
@@ -48,6 +48,14 @@
   </p>
 </div>
 
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=es2323&show_icons=true&theme=onedark&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es2323&layout=compact&theme=onedarkn&hide_border=false&hide=java,GLSL" width="40%" />
+</p>
 
 <div align="center">
   <h2>💡 What I'm Working On?</h2>
