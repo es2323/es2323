@@ -57,12 +57,9 @@
 
 <div align="center">
   <h2>📈 GitHub Activity</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=es2323&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" width="48%" />
-</div>
-
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=es2323&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=es2323&theme=synthwave&hide_border=true" 
+  alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es2323&layout=compact&theme=synthwave&hide_border=true" width="40%" />
 </div>
 
 <div align="center">
@@ -78,7 +75,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:enoshsolomonn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
