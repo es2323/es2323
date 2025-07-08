@@ -56,28 +56,24 @@
 </div>
 
 <div align="center">
-  <h2>📈 GitHub Stats</h2>
+  <h2>📈 GitHub Activity</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=es2323&theme=blue-green&hide_border=true" alt="GitHub Streak Stats" width="48%" />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=es2323&show_icons=true&theme=dracula&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=es2323&layout=compact&theme=dracula&hide_border=false&hide=java,GLSL" width="40%" />
-</p>
 
 <div align="center">
   <h2>🤝 Let's Connect!</h2>
   <p>
-    I’m open to <strong>backend, infra, and systems SWE roles</strong> for 2025! <br/>
+    I’m open to <strong>Software Engineering (Frontend, Backend, Full-stack), AI/ML, and Web Design roles</strong> for 2025! <br/>
     Always happy to collaborate, contribute, or chat tech 👇
   </p>
+    <a href="https://enoshearnest.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=black"/>
+  </a>
   <a href="https://www.linkedin.com/in/enosh-solomon-3370321bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:enoshsolomonn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-    <a href="https://enoshearnest.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
 </div>
 
