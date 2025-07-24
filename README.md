@@ -7,7 +7,7 @@
 <div align="center">
   <h2>👨‍💻 A Bit About Me</h2>
   <p>
-    I'm <strong>Enosh Earnest</strong>, a final-year Computer Science & Math student at University of Derby 🎓.<br>
+    I'm <strong>Enosh Earnest</strong>, a final-year Computer Science & Math student at The University of Derby 🎓.<br>
     I'm a true believer in bringing beauty through code. <br> 
     My passion lies in developing front-end experiences via instinctive UI/UX design, and building robust backend solutions with Python. <br>
     Away from the laptop, you'll find me strumming a guitar 🎸 or exploring Gothic Cathedrals⛪. <br>
